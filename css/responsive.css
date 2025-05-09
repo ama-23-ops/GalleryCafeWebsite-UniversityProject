@@ -1,0 +1,173 @@
+
+
+
+/* larger screen size 1070px */
+@media (max-width: 1070px){
+    html{
+        font-size: 60%;
+    }
+
+    .hero-slider{
+        padding: 0 80px;
+    }
+} 
+
+@media (max-width: 900px){
+    html{
+        font-size: 45%;
+    }
+
+    .hero-slider{
+        padding: 0 60px;
+    } 
+    .menuBtn{
+        display: block;
+    }
+
+    .clsBtn{
+        display: block;
+    }
+
+    .navbar nav{  
+        flex-direction: column;
+        position: fixed;
+        min-width: 100%;
+        min-height: 60vh;
+        top: 0;
+        right: 100%;
+        background: #910d0d;
+        align-items: flex-start;
+        justify-content: center;
+        transition: all 0.5s ease-in-out;
+    }
+
+    nav.active{
+        right: 0%;
+        transition: all 1s ease-in;
+    }
+
+    .navbar nav li{
+        margin: 2rem 4rem;  
+    }
+
+    .navbar nav li a{
+        font-size: 1.4rem;
+        color: var(--white_color);
+        position: relative;
+    }
+
+    .clsBtn{
+        position: absolute;
+        top: 0;
+        left: 90%;
+        margin: 25px;
+    }
+
+    .logo img {
+        width: 20%; /* Adjust logo size on small screens */
+    }
+
+    .hero-title {
+        font-size: 3rem; /* Reduce title font size */
+    }
+
+    .section-subtitle{
+        font-size: 1rem;
+    }
+
+    .hero-text {
+        font-size: 0.5rem; /* Reduce text font size */
+    }
+
+    .btn-reservation {
+        font-size: 1rem; /* Adjust button text size */
+        padding: 8px 16px; /* Adjust button padding */
+    }
+
+    .prev, .next {
+        font-size: 2rem; /* Adjust navigation button size */
+    }
+    
+}
+
+@media (max-width: 450px){
+    html{
+        font-size: 10%;
+    }
+
+    .hero-slider{
+        padding: 0 40px;
+    }
+
+    .logo img {
+        width: 20%; /* Adjust logo size on small screens */
+    }
+
+    .slider-bg {
+        position: relative;
+        width: 200%;
+        height: 200%;
+        overflow: hidden;
+        animation: none; /* Initial state without animation */
+    }
+
+    .hero-title {
+        font-size: 1rem; /* Reduce title font size */
+    }
+
+    .section-subtitle{
+        font-size: 0.25rem;
+    }
+
+
+    .hero-text {
+        font-size: 1.5rem; /* Reduce text font size */
+    }
+
+    .btn-reservation {
+        font-size: 1rem; /* Adjust button text size */
+        padding: 8px 16px; /* Adjust button padding */
+    }
+
+    .prev, .next {
+        font-size: 1rem; /* Adjust navigation button size */
+    }
+}
+
+/* Responsive footer Adjustments */
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .footer-social {
+        margin-top: 20px;
+    }
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+    .intro {
+      flex-direction: column; /* Stack images and content vertically */
+    }
+  
+    .intro_image1, .intro_image2 {
+      flex: none;
+      width: 100%;
+      margin-bottom: 20px; /* Add some space between stacked elements */
+    }
+  
+    .intro_image2 {
+      left: 0; /* Reset the left alignment for the second image on mobile */
+    }
+  
+    .intro_content {
+      position: static;
+      transform: none;
+      margin-top: 20px;
+      width: 100%;
+      padding: 20px;
+      box-shadow: none; 
+    }
+  }
