@@ -98,35 +98,35 @@ I learned how to design and implement a complete website with features like menu
 
 ## 📸 Screenshots
 
-| Feature/Screen             | Screenshot                                                        |
-| -------------------------- | ----------------------------------------------------------------- |
-| Homepage Slide 1           | ![Homepage Slide 1](img/gallerycafe-feat1.jpeg)                   |
-| Homepage Slide 2           | ![Homepage Slide 2](img/gallerycafe-feat2.jpeg)                   |
-| Homepage Slide 3           | ![Homepage Slide 3](img/gallerycafe-feat3.jpeg)                   |
-| Featured Dishes Section    | ![Featured Dishes Section](img/gallerycafe-feat4.jpeg)            |
-| About Us Page              | ![About Us Page](img/gallerycafe-feat5.jpeg)                      |
-| About Us Page              | ![About Us Page](img/gallerycafe-feat6.jpeg)                      |
-| Special Promotions Section | ![Special Promotions Section](img/gallerycafe-feat7.jpeg)         |
-| Events Section             | ![Events Section](img/gallerycafe-feat8.jpeg)                     |
-| Chef Section               | ![Chef Section](img/gallerycafe-feat9.jpeg)                       |
-| Menu Page                  | ![Menu Page](img/gallerycafe-feat10.jpeg)                         |
-| Menu Page                  | ![Menu Page](img/gallerycafe-feat11.jpeg)                         |
-| Beverages Section          | ![Beverages Section](img/gallerycafe-feat13.jpeg)                 |
-| Dessert Section            | ![Dessert Section](img/gallerycafe-feat14.jpeg)                   |
-| Reservation Page           | ![Reservation Page](img/gallerycafe-feat15.jpeg)                  |
-| Reservation Page           | ![Reservation Page](img/gallerycafe-feat16.jpeg)                  |
-| Realtime Availability      | ![Realtime Availability](img/gallerycafe-feat17.jpeg)             |
-| Reviews Section            | ![Reviews Section](img/gallerycafe-feat18.jpeg)                   |
-| Login page                 | ![Login page](img/gallerycafe-feat19.jpeg)                        |
-| Cart                       | ![Cart](img/gallerycafe-feat20.jpeg)                              |
-| Customer Profile Page      | ![Customer Profile Page](img/gallerycafe-feat21.jpeg)             |
-| Customer Profile Page      | ![Customer Profile Page](img/gallerycafe-feat22.jpeg)             |
-| Admin Dashboard            | ![Admin Dashboard](img/gallerycafe-feat23.jpeg)                   |
-| Footer Section             | ![Footer Section](img/gallerycafe-feat24.jpeg)                    |
-| Admin Menu Management      | ![Admin Menu Management](img/gallerycafe-feat25.jpeg)             |
-| Admin Order Management     | ![Admin Order Management](img/gallerycafe-feat26.jpeg)            |
-| Admin Reservation Management| ![Admin Reservation Management](img/gallerycafe-feat27.jpeg)   |
-| Admin User Management      | ![Admin User Management](img/gallerycafe-feat28.jpeg)             |
+| Feature/Screen             | Screenshot                                                              |
+| -------------------------- | ----------------------------------------------------------------------- |
+| Homepage Slide 1           | ![Homepage Slide 1](screenshots/gallerycafe-feat1.jpeg)                   |
+| Homepage Slide 2           | ![Homepage Slide 2](screenshots/gallerycafe-feat2.jpeg)                   |
+| Homepage Slide 3           | ![Homepage Slide 3](screenshots/gallerycafe-feat3.jpeg)                   |
+| Featured Dishes Section    | ![Featured Dishes Section](screenshots/gallerycafe-feat4.jpeg)            |
+| About Us Page              | ![About Us Page](screenshots/gallerycafe-feat5.jpeg)                      |
+| About Us Page              | ![About Us Page](screenshots/gallerycafe-feat6.jpeg)                      |
+| Special Promotions Section | ![Special Promotions Section](screenshots/gallerycafe-feat7.jpeg)         |
+| Events Section             | ![Events Section](screenshots/gallerycafe-feat8.jpeg)                     |
+| Chef Section               | ![Chef Section](screenshots/gallerycafe-feat9.jpeg)                       |
+| Menu Page                  | ![Menu Page](screenshots/gallerycafe-feat10.jpeg)                         |
+| Menu Page                  | ![Menu Page](screenshots/gallerycafe-feat11.jpeg)                         |
+| Beverages Section          | ![Beverages Section](screenshots/gallerycafe-feat13.jpeg)                 |
+| Dessert Section            | ![Dessert Section](screenshots/gallerycafe-feat14.jpeg)                   |
+| Reservation Page           | ![Reservation Page](screenshots/gallerycafe-feat15.jpeg)                  |
+| Reservation Page           | ![Reservation Page](screenshots/gallerycafe-feat16.jpeg)                  |
+| Realtime Availability      | ![Realtime Availability](screenshots/gallerycafe-feat17.jpeg)             |
+| Reviews Section            | ![Reviews Section](screenshots/gallerycafe-feat18.jpeg)                   |
+| Login page                 | ![Login page](screenshots/gallerycafe-feat19.jpeg)                        |
+| Cart                       | ![Cart](screenshots/gallerycafe-feat20.jpeg)                              |
+| Customer Profile Page      | ![Customer Profile Page](screenshots/gallerycafe-feat21.jpeg)             |
+| Customer Profile Page      | ![Customer Profile Page](screenshots/gallerycafe-feat22.jpeg)             |
+| Admin Dashboard            | ![Admin Dashboard](screenshots/gallerycafe-feat23.jpeg)                   |
+| Footer Section             | ![Footer Section](screenshots/gallerycafe-feat24.jpeg)                    |
+| Admin Menu Management      | ![Admin Menu Management](screenshots/gallerycafe-feat25.jpeg)             |
+| Admin Order Management     | ![Admin Order Management](screenshots/gallerycafe-feat26.jpeg)            |
+| Admin Reservation Management| ![Admin Reservation Management](screenshots/gallerycafe-feat27.jpeg)   |
+| Admin User Management      | ![Admin User Management](screenshots/gallerycafe-feat28.jpeg)             |
 
 ---
 
