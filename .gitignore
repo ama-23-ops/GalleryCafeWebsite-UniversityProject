@@ -1,0 +1,65 @@
+# Compiled files that should never be committed
+*.class
+*.pyc
+*.o
+*.so
+*.exe
+*.dll
+*.zip
+*.jar
+*.war
+*.ear
+*.apk
+*.ipa
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.tmp*
+*.swp
+*~
+
+# Backup files
+*.bak
+*.old
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.csproj.user
+*.userprefs
+*.ncb
+*.sdf
+*.suo
+*.VC.db
+*.VC.log
+*.opendb
+*.VC.opendb
+*.DS_Store
+
+# Build artifacts
+node_modules/
+bower_components/
+target/
+build/
+dist/
+out/
+coverage/
+
+# Database files 
+*.db
+*.sql  
+
+
+# PHP-specific files (if applicable)
+*.cache
+*.session
+*.tmp
+
+# Local environment configuration files
+.env
+local.php
+config.local.php
